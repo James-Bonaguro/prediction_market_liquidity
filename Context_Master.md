@@ -1,7 +1,7 @@
 # PROJECT: THE WHIPPLE LIQUIDITY ENGINE
 **Status:** Pre-Alpha / Educational Phase
 **Role:** Proprietary Trading Firm (Automated Sentiment Arbitrage)
-**Repo:** https://github.com/James-Bonaguro/whipple_liquidity
+**Repo:** https://github.com/James-Bonaguro/prediction_market_liquidity
 
 ---
 
