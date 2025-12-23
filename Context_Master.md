@@ -6,7 +6,7 @@
 ---
 
 ## 1. EXECUTIVE SUMMARY (The "North Star")
-**The Concept:** The Whipple Liquidity Engine is not a gambling bot. It is a high-frequency market-making system for prediction markets (Kalshi/Polymarket).
+**The Concept:** The Liquidity Engine is not a gambling bot. It is a high-frequency market-making system for prediction markets (Kalshi/Polymarket).
 **The Edge:** Retail participants trade on **Emotion** (Hope/Fear). We trade on **Math** (Spread/Probability).
 **The Revenue Model:** We act as the "Casino" (Market Maker). We provide liquidity by placing Limit Orders to capture the spread, rather than betting on the final outcome.
 
